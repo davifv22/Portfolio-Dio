@@ -1,129 +1,93 @@
 {
-  "nome": "Venilton FalvoJr",
-  "titulo": "Education Tech Lead na DIO",
-  "localidade": {
-    "cidade": "Araraquara",
-    "estado": "São Paulo",
-    "pais": "Brasil"
-  },
-  "telefone": "(16) 99721-8281",
-  "email": "venilton@dio.me",
-  "skills": {
-    "hardSkills": [
-      {
-        "nome": "Android",
-        "logo": "TODO"
-      },
-      {
-        "nome": "Java",
-        "logo": "TODO"
-      },
-      {
-        "nome": "Kotlin",
-        "logo": "TODO"
-      }
+    "name": "Davi Viana",
+    "photo": "https://avatars.githubusercontent.com/u/89869115?v=4",
+    "job": "Analista de Suporte",
+    "location": "Passos - MG",
+    "phone": "(35) 99109-9061",
+    "email": "davifv22@gmail.com",
+    "skills": {
+        "hardSkills": [{
+                "name": "Python",
+                "logo": "https://raw.githubusercontent.com/davifv22/Portfolio-Dio/main/data/imgs/python.png"
+            },
+            {
+                "name": "Visual Basic 6",
+                "logo": "https://raw.githubusercontent.com/davifv22/Portfolio-Dio/main/data/imgs/vb6.png"
+            },
+            {
+                "name": "C#",
+                "logo": "https://raw.githubusercontent.com/davifv22/Portfolio-Dio/main/data/imgs/csharp.png"
+            },
+            {
+                "name": "JavaScript",
+                "logo": "https://raw.githubusercontent.com/davifv22/Portfolio-Dio/main/data/imgs/js.png"
+            },
+            {
+                "name": "SQL Server",
+                "logo": "https://raw.githubusercontent.com/davifv22/Portfolio-Dio/main/data/imgs/sql.png"
+            },
+            {
+                "name": "MySQL",
+                "logo": "https://raw.githubusercontent.com/davifv22/Portfolio-Dio/main/data/imgs/mysql.png"
+            },
+            {
+                "name": "NodeJs",
+                "logo": "https://raw.githubusercontent.com/davifv22/Portfolio-Dio/main/data/imgs/nodejs.png"
+            },
+            {
+                "name": "HTML",
+                "logo": "https://raw.githubusercontent.com/davifv22/Portfolio-Dio/main/data/imgs/html.png"
+            },
+            {
+                "name": "CSS",
+                "logo": "https://raw.githubusercontent.com/davifv22/Portfolio-Dio/main/data/imgs/css.png"
+            },
+            {
+                "name": "Git",
+                "logo": "https://raw.githubusercontent.com/davifv22/Portfolio-Dio/main/data/imgs/git.png"
+            },
+            {
+                "name": "GitHub",
+                "logo": "https://raw.githubusercontent.com/davifv22/Portfolio-Dio/main/data/imgs/github.png"
+            }
+        ],
+        "softSkills": [
+            "Analítico",
+            "Liderança",
+            "Trabalho em equipe",
+            "Flexibilidade",
+            "Organização"
+        ]
+    },
+    "languages": [
+        "Português BR",
+        "Inglês (Intermediário)"
     ],
-    "softSkills": [
-      "Comunicação",
-      "Empatia",
-      "Poder de Sedução Imcomparável"
-    ]
-  },
-  "idiomas": [
-    {
-      "nome": "Português",
-      "nivel": "Nativo"
-    },
-    {
-      "nome": "Inglês",
-      "nivel": "Intermediário"
-    },
-    {
-      "nome": "Espanhol",
-      "nivel": "Básico"
-    }
-  ],
-  "educacao": [
-    {
-      "nome": "dio.me",
-      "descricao": "Aprendizado contínuo na maior plataforma de educação aberta da América Latina.",
-      "instituicao": "Digital Innovation One (DIO)",
-      "periodo": {
-        "inicio": "2019",
-        "fim": "Atualmente"
-      },
-      "certificados": [
-        {
-          "nome": "Formação: Blockchain Specialist (25h)",
-          "link": "https://www.dio.me/certificate/28601B02"
+    "portfolio": [{
+            "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+            "url": "https://github.com/davifv22/Pokedex-DIO",
+            "github": true
         },
         {
-          "nome": "Curso: Desenvolvimento Mobile Nativo Para Android",
-          "link": "https://www.dio.me/certificate/07041B99"
-        },
-        {
-          "nome": "Curso: Componentes, Layouts e UI/UX Em Apps Android",
-          "link": "https://www.dio.me/certificate/F12AC30B"
-        },
-        {
-          "nome": "Curso: Java e Kotlin Juntos!? Construindo Apps Android",
-          "link": "https://www.dio.me/certificate/3FB20BF1"
-        },
-        {
-          "nome": "Curso: Explorando o Firebase Para Apps Android Resiliente",
-          "link": "https://www.dio.me/certificate/BA099F34"
+            "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
+            "url": "https://github.com/davifv22/Portfolio-Dio",
+            "github": true
         }
-      ]
-    },
-    {
-      "nome": "Doutorado em Engenharia de Software",
-      "descricao": "Uma Infraestrutura de Apoio ao Ensino e Aprendizagem de Línguas de Sinais",
-      "instituicao": "Universidade de São Paulo (USP)",
-      "periodo": {
-        "inicio": "2018",
-        "fim": "Atualmente"
-      }
-    },
-    {
-      "nome": "Mestrado em Engenharia de Software",
-      "descricao": "Estudo e Definição de Uma Linha de Produtos de Software Para o Desenvolvimento de Aplicações Educacionais Moveis",
-      "instituicao": "Universidade de São Paulo (USP)",
-      "periodo": {
-        "inicio": "2012",
-        "fim": "2015"
-      }
-    },
-    {
-      "nome": "Bacharelado em Engenharia de Computação",
-      "descricao": "",
-      "instituicao": "Universidade de Araraquara (UNIARA)",
-      "periodo": {
-        "inicio": "2007",
-        "fim": "2011"
-      }
-    }
-  ],
-  "portfolio": [
-    {
-      "nome": "Crie o seu NFT de Pokémon com Blockchain (DIO)",
-      "gitHub": "https://github.com/digitalinnovationone/formacao-blockchain-dio",
-      "certificado": "https://www.dio.me/certificate/34F1FBA1"
-    },
-    {
-      "nome": "App Nativo Sobre Futebol Feminino com Android Jetpack e Java (DIO)",
-      "gitHub": "https://github.com/digitalinnovationone/soccer-news-app",
-      "certificado": "https://www.dio.me/certificate/9A5090FC"
-    }
-  ],
-  "experiencias": [
-    {
-      "nome": "Education Tech Lead ",
-      "descricao": "",
-      "instituicao": "Digital Innovation One (DIO)",
-      "periodo": {
-        "inicio": "03/2021",
-        "fim": "Atualmente"
-      }
-    }
-  ]
+    ],
+    "professionalExperience": [{
+            "name": "Analista de Suporte | GestCom",
+            "period": "Jan 2021 - Até o momento",
+            "description": "Com dedicação e muito esforço, fui promovido como analista."
+        },
+        {
+            "name": "Software Tester | GestCom",
+            "period": "Dez 2019 - Dez 2020",
+            "description": "Aprimorando as habilidades com códigos e testes."
+        },
+        {
+            "name": "Atendente de Suporte | GestCom",
+            "period": "Fev 2017 - Nov 2019",
+            "description": "Período de muito aprendizado e o primeiro contato com o ramo da tecnologia."
+        }
+    ]
 }
