@@ -31,6 +31,10 @@
                 "logo": "https://raw.githubusercontent.com/davifv22/Portfolio-Dio/main/data/imgs/mysql.png"
             },
             {
+                "name": "PostgreSQL",
+                "logo": "https://raw.githubusercontent.com/davifv22/Portfolio-Dio/main/data/imgs/postgresql.png"
+            },
+            {
                 "name": "NodeJs",
                 "logo": "https://raw.githubusercontent.com/davifv22/Portfolio-Dio/main/data/imgs/nodejs.png"
             },
@@ -49,6 +53,10 @@
             {
                 "name": "GitHub",
                 "logo": "https://raw.githubusercontent.com/davifv22/Portfolio-Dio/main/data/imgs/github.png"
+            },
+            {
+                "name": "VSCode",
+                "logo": "https://raw.githubusercontent.com/davifv22/Portfolio-Dio/main/data/imgs/vscode.png"
             }
         ],
         "softSkills": [
